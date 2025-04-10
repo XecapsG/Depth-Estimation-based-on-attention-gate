@@ -1,0 +1,80 @@
+absl-py==2.1.0
+albucore==0.0.23
+albumentations==2.0.4
+annotated-types==0.7.0
+astunparse==1.6.3
+certifi==2025.1.31
+charset-normalizer==3.4.1
+colorama==0.4.6
+contourpy==1.3.1
+cycler==0.12.1
+filelock==3.17.0
+flatbuffers==25.2.10
+fonttools==4.56.0
+fsspec==2025.2.0
+gast==0.6.0
+google-pasta==0.2.0
+grpcio==1.70.0
+h5py==3.13.0
+idna==3.10
+imageio @ file:///C:/b/abs_4cup9zfkvm/croot/imageio_1738160462075/work
+Jinja2==3.1.5
+joblib==1.4.2
+keras==3.9.0
+kiwisolver==1.4.8
+lazy_loader @ file:///C:/b/abs_3fs2i5w5p3/croot/lazy_loader_1718176758844/work
+libclang==18.1.1
+lightning-utilities==0.12.0
+Markdown==3.7
+markdown-it-py==3.0.0
+MarkupSafe==3.0.2
+matplotlib==3.10.0
+mdurl==0.1.2
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+ml-dtypes==0.4.1
+mpmath==1.3.0
+namex==0.0.8
+networkx @ file:///C:/b/abs_b054htfn9t/croot/networkx_1737043671910/work
+numpy==2.0.2
+opencv-python==4.11.0.86
+opencv-python-headless==4.11.0.86
+opt_einsum==3.4.0
+optree==0.14.1
+packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
+pillow @ file:///C:/b/abs_b50vowcrzo/croot/pillow_1738010273782/work
+protobuf==5.29.3
+pydantic==2.10.6
+pydantic_core==2.27.2
+Pygments==2.19.1
+pyparsing==3.2.1
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+requests==2.32.3
+rich==13.9.4
+scikit-image @ file:///C:/b/abs_081xgoymhl/croot/scikit-image_1737473383970/work
+scikit-learn==1.6.1
+scipy @ file:///C:/b/abs_5ejjagtvrz/croot/scipy_1737132284367/work/dist/scipy-1.15.1-cp312-cp312-win_amd64.whl#sha256=46f111b8c2fbc0f264a920bd3532d460b9fe4d5ea429a32b80c3e766856dd90b
+setuptools==75.8.0
+simsimd==6.2.1
+six==1.17.0
+stringzilla==3.11.3
+sympy==1.13.1
+tensorboard==2.18.0
+tensorboard-data-server==0.7.2
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
+termcolor==2.5.0
+threadpoolctl==3.5.0
+tifffile @ file:///C:/b/abs_fewiv8e5nb/croot/tifffile_1734340925677/work
+torch==2.5.1+cu121
+torchaudio==2.5.1+cu121
+torchmetrics==1.6.1
+torchvision==0.20.1+cu121
+tqdm==4.67.1
+typing_extensions==4.12.2
+urllib3==2.3.0
+Werkzeug==3.1.3
+wheel==0.45.1
+wrapt==1.17.2
