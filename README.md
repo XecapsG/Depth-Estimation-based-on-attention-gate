@@ -1,17 +1,40 @@
 # Depth Estimation based on Attention Gate
 
-这是一个基于注意力机制（Attention Gate）的深度估计项目，旨在通过立体视觉（Stereo Vision）技术实现精确的深度估计。项目使用 Python 和深度学习框架（如 PyTorch）实现。
+This is a depth estimation project based on the Attention Gate mechanism, aimed at achieving accurate depth estimation through Stereo Vision techniques. The project is implemented using Python and deep learning frameworks (e.g., PyTorch).
 
-## 功能特点
-- 使用注意力机制增强深度估计的精度。
-- 支持立体图像对（Stereo Image Pairs）输入。
-- 提供预训练模型（可选，如果有的话）。
-- 适用于计算机视觉研究和应用。
+## Features
+- Enhances depth estimation accuracy using the Attention Gate mechanism.
+- Supports stereo image pairs as input.
+- Provides pre-trained models (optional, if available).
+- Suitable for computer vision research and applications.
 
-## 安装步骤
+## Installation Steps
 
-### 1. 克隆仓库
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/XecapsG/Depth-Estimation-based-on-attention-gate.git
 cd Depth-Estimation-based-on-attention-gate
+```
+### 2.Install Dependencies
+```bash
+pip install -r requirements.txt
+
+```
+
+### 3. Download the Dataset
+
+```bash
+https://drivingstereo-dataset.github.io/
+
+```
+
+### 4. Train
+```bash
+python main.py
+
+```
+![depth_visualization_predicted_depth](https://github.com/user-attachments/assets/d131f892-812d-4ce1-a897-0feb70785517)
+
+
+
 
